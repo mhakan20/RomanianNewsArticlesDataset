@@ -1,5 +1,7 @@
 Changelog:
 
+6. Add sisth day of data 12.08.2022
+
 5. Add fifth day of data 11.08.2022
 
 4. Add forth day of data 10.08.2022
