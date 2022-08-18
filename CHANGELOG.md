@@ -1,5 +1,7 @@
 Changelog:
 
+12. Add twelvth day of data 18.09.2022
+
 11. Add eleventh day of data 17.08.2022
 
 10. Add tenth day of data 16.08.2022
