@@ -1,5 +1,7 @@
 Changelog:
 
+15. Add statistics about number of words and sentences
+
 14. Add statistics notebook
 
 13. Add 13th day of data 19.09.2022
