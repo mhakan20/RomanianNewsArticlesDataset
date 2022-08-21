@@ -1,5 +1,7 @@
 Changelog:
 
+14. Add statistics notebook
+
 13. Add 13th day of data 19.09.2022
 
 12. Add twelvth day of data 18.09.2022
